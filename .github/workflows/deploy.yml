@@ -21,6 +21,8 @@ jobs:
 
       - name: Deploy to Target Branch
         uses: JamesIves/github-pages-deploy-action@v4.4.1  # 推送构建产物到 target 分支
+        env:
+          GITHUB_TOKEN: ${{secrets.ACCESS_TOKEN}}
         with:
           branch: target
           folder: .vitepress/dist  # 替换为你的构建目录
