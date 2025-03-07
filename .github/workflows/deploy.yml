@@ -1,7 +1,9 @@
 name: Deploy VitePress to GitHub Pages
+
 on:
   push:
     branches: [main]  # 监听 main 分支的 push 事件
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -10,12 +12,12 @@ jobs:
         uses: actions/checkout@v4  # 检出 main 分支代码
 
       - name: Install dependencies
-        uses: actions/setup-node@v3  # 安装 pnpm（若用 npm 替换为 actions/setup-node@v3）
+        uses: pnpm/action-setup@v2  # 安装 pnpm（若用 npm 替换为 actions/setup-node@v3）
         with:
           version: 8
 
       - name: Build project
-        run: npm install && npm run docs:build  # 执行构建命令
+        run: pnpm install && pnpm run docs:build  # 执行构建命令
 
       - name: Deploy to Target Branch
         uses: JamesIves/github-pages-deploy-action@v4.4.1  # 推送构建产物到 target 分支
