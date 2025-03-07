@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "21b8cd3f4d6a6f93",
+    "type": "split",
+    "children": [
+      {
+        "id": "de550eaafa4f27ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "051254888b1f780b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d619e0ae4b052a14",
+    "type": "split",
+    "children": [
+      {
+        "id": "35cf54de3708f806",
+        "type": "tabs",
+        "dimension": 78.14207650273224,
+        "children": [
+          {
+            "id": "b7b371eec0b4f14f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1c87ef4150171b05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b4e75b30ad8773dd",
+        "type": "tabs",
+        "dimension": 21.857923497267755,
+        "children": [
+          {
+            "id": "07b005e508600a77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "85c594c4de743e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe7f13f242f3f5d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1800ee6710f8b2d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "fd74655fe454b23e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "java/design-mode/创建型模式/单例模式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "单例模式 的反向链接列表"
+            }
+          },
+          {
+            "id": "de37a52d3c6fae26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "java/design-mode/创建型模式/单例模式.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "单例模式 的出链列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1c87ef4150171b05",
+  "lastOpenFiles": [
+    "index.md",
+    "vue3/组件传值.md",
+    "vue3/router.md",
+    "vue3/svg-icon.md",
+    "vue3/plugin.md",
+    "vue3/starter.md",
+    "vue3/element-plus.md",
+    "vue3/dev-proxy.md",
+    "vue3/axios.md",
+    "vue3",
+    "linux/command/less.md",
+    "linux/防火墙.md",
+    "linux/命令分隔符.md",
+    "linux/systemctl.md",
+    "linux/shell.md",
+    "linux/regular.md",
+    "linux/index.md",
+    "linux/ifcfg-enc33.md",
+    "linux/git.md",
+    "linux/command",
+    "linux",
+    "java/design-mode/行为型模式/images/Pasted image 20240420110634.png",
+    "java/design-mode/创建型模式/images/Pasted image 20240316210442.png",
+    "java/springcloud/images/Pasted image 20240316112621.png",
+    "java/design-mode/行为型模式/责任链模式.md",
+    "java/design-mode/行为型模式/strategy策略模式.md",
+    "java/design-mode/行为型模式/images",
+    "java/design-mode/结构型模式/adapter.md",
+    "java/design-mode/结构型模式/facade(外观模式).md",
+    "java/design-mode/创建型模式/抽象工厂模式.md",
+    "java/design-mode/创建型模式/工厂方法模式.md",
+    "java/design-mode/创建型模式/单例模式.md",
+    "java/design-mode/创建型模式/images",
+    "java/utils/chaimMap.md",
+    "java/springcloud/images",
+    "java/design-mode/行为型模式",
+    "java/design-mode/结构型模式",
+    "java/design-mode/创建型模式",
+    "java/utils",
+    "database/mysql/images/Pasted image 20240224171031.png",
+    "database/mysql/images/Pasted image 20240312190927.png",
+    "database/mysql/images/Pasted image 20240224163936.png",
+    "database/mysql/images/Pasted image 20240224151215.png",
+    "database/mysql/images/Pasted image 20240224161541.png",
+    "database/mysql/images/Pasted image 20240224150508.png",
+    "database/mysql/images/Pasted image 20240224150709.png",
+    "todo.canvas",
+    "erp.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "qqq.canvas",
+    "bzd.canvas",
+    "未命名 3.canvas"
+  ]
+}

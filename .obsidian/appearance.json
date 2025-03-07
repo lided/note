@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "theme": "system",
+  "nativeMenus": false,
+  "translucency": false,
+  "cssTheme": "GitHub Theme",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 18,
+  "showViewHeader": true,
+  "baseFontSizeAction": false,
+  "showRibbon": true
+}
