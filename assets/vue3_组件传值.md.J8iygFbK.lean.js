@@ -1,1 +1,0 @@
-import{_ as i,c as a,o as n,ag as t}from"./chunks/framework.DPDPlp3K.js";const g=JSON.parse('{"title":"子组件->父组件","description":"","frontmatter":{},"headers":[],"relativePath":"vue3/组件传值.md","filePath":"vue3/组件传值.md"}'),h={name:"vue3/组件传值.md"};function k(l,s,p,e,E,d){return n(),a("div",null,s[0]||(s[0]=[t("",5)]))}const y=i(h,[["render",k]]);export{g as __pageData,y as default};

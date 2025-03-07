@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as d,ag as r}from"./chunks/framework.DPDPlp3K.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"java/juc/引用.md","filePath":"java/juc/引用.md"}'),_={name:"java/juc/引用.md"};function o(s,t,n,c,i,l){return d(),a("div",null,t[0]||(t[0]=[r("",1)]))}const m=e(_,[["render",o]]);export{f as __pageData,m as default};

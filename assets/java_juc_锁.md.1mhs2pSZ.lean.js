@@ -1,1 +1,0 @@
-import{_ as t,c as e,o,ag as r}from"./chunks/framework.DPDPlp3K.js";const u=JSON.parse('{"title":"乐观锁 & 悲观锁","description":"","frontmatter":{},"headers":[],"relativePath":"java/juc/锁.md","filePath":"java/juc/锁.md"}'),n={name:"java/juc/锁.md"};function i(l,a,d,h,c,s){return o(),e("div",null,a[0]||(a[0]=[r("",18)]))}const m=t(n,[["render",i]]);export{u as __pageData,m as default};
