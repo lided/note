@@ -48,6 +48,16 @@
             }
           },
           {
+            "id": "bd76200e4761f9c4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
             "id": "eb2f421696c28052",
             "type": "leaf",
             "state": {
@@ -61,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -74,6 +84,7 @@
       {
         "id": "fe7f13f242f3f5d9",
         "type": "tabs",
+        "dimension": 47.80952380952381,
         "children": [
           {
             "id": "1800ee6710f8b2d9",
@@ -87,16 +98,6 @@
               },
               "icon": "lucide-list",
               "title": "大纲"
-            }
-          },
-          {
-            "id": "bd76200e4761f9c4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
             }
           },
           {
@@ -131,10 +132,37 @@
             }
           }
         ]
+      },
+      {
+        "id": "bc7f949f07b2d768",
+        "type": "tabs",
+        "dimension": 52.19047619047619,
+        "children": [
+          {
+            "id": "68a080a4c4db6224",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "8287d564c1cd89c5",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 517.5
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,12 +170,10 @@
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "obsidian-git:Open Git source control": false,
-      "workspaces:管理工作区布局": false,
-      "zk-prefixer:创建时间戳笔记": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d0d26056e0defb9",
+  "active": "68a080a4c4db6224",
   "lastOpenFiles": [
     "linux/index.md",
     "linux/ifcfg-enc33.md",
