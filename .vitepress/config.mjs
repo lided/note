@@ -4,7 +4,7 @@ import { withSidebar } from 'vitepress-sidebar';
 // https://vitepress.dev/reference/site-config
 export default defineConfig(withSidebar({
   title: "首页",
-  base: '/lided',
+  base: '/note',
   themeConfig: {
     search: {
       provider: 'local'
@@ -16,8 +16,7 @@ export default defineConfig(withSidebar({
     sidebar: [],
 
     socialLinks: [
-      { icon: 'gitee', link: 'https://github.com/asxnb' },
-      { icon: 'github', link: 'https://github.com/asxnb' },
+      { icon: 'github', link: 'https://github.com/lided' },
     ]
   },
 }, [
