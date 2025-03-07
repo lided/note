@@ -1,2 +1,0 @@
-/* 隐藏所有 .DS_Store 文件 */
-.nav-file-title[data-path$=".json"] { display: none; }

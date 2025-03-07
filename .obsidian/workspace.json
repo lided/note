@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de550eaafa4f27ac",
+        "id": "e58e943e313cd44e",
         "type": "tabs",
         "children": [
           {
-            "id": "051254888b1f780b",
+            "id": "4d0d26056e0defb9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,7 +29,6 @@
       {
         "id": "35cf54de3708f806",
         "type": "tabs",
-        "dimension": 78.14207650273224,
         "children": [
           {
             "id": "b7b371eec0b4f14f",
@@ -37,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"hero\"]",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -49,12 +48,12 @@
             }
           },
           {
-            "id": "1c87ef4150171b05",
+            "id": "eb2f421696c28052",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -63,28 +62,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "b4e75b30ad8773dd",
-        "type": "tabs",
-        "dimension": 21.857923497267755,
-        "children": [
-          {
-            "id": "07b005e508600a77",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -113,12 +90,21 @@
             }
           },
           {
+            "id": "bd76200e4761f9c4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
             "id": "fd74655fe454b23e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/design-mode/创建型模式/单例模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "单例模式 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -137,19 +123,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/design-mode/创建型模式/单例模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "单例模式 的出链列表"
+              "title": "出链"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 517.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,12 +142,27 @@
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:管理工作区布局": false,
+      "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "1c87ef4150171b05",
+  "active": "4d0d26056e0defb9",
   "lastOpenFiles": [
+    "linux/index.md",
+    "linux/ifcfg-enc33.md",
+    "docker/index.md",
     "index.md",
+    "readme.md",
+    "database/redis/start.md",
+    "docker/services.md",
+    "database/elasticsearch/query.md",
+    "database/elasticsearch/images/ik分词器analyze.md",
+    "database/elasticsearch/quickstart.md",
+    "database/elasticsearch/images/Pasted image 20240603134121.png",
+    "database/elasticsearch/images/未命名.md",
+    "database/mysql/install.md",
+    "java/juc/大纲.md",
     "vue3/组件传值.md",
     "vue3/router.md",
     "vue3/svg-icon.md",
@@ -177,25 +177,13 @@
     "linux/命令分隔符.md",
     "linux/systemctl.md",
     "linux/shell.md",
-    "linux/regular.md",
-    "linux/index.md",
-    "linux/ifcfg-enc33.md",
-    "linux/git.md",
     "linux/command",
     "linux",
     "java/design-mode/行为型模式/images/Pasted image 20240420110634.png",
     "java/design-mode/创建型模式/images/Pasted image 20240316210442.png",
     "java/springcloud/images/Pasted image 20240316112621.png",
-    "java/design-mode/行为型模式/责任链模式.md",
-    "java/design-mode/行为型模式/strategy策略模式.md",
     "java/design-mode/行为型模式/images",
-    "java/design-mode/结构型模式/adapter.md",
-    "java/design-mode/结构型模式/facade(外观模式).md",
-    "java/design-mode/创建型模式/抽象工厂模式.md",
-    "java/design-mode/创建型模式/工厂方法模式.md",
-    "java/design-mode/创建型模式/单例模式.md",
     "java/design-mode/创建型模式/images",
-    "java/utils/chaimMap.md",
     "java/springcloud/images",
     "java/design-mode/行为型模式",
     "java/design-mode/结构型模式",
@@ -207,7 +195,6 @@
     "database/mysql/images/Pasted image 20240224151215.png",
     "database/mysql/images/Pasted image 20240224161541.png",
     "database/mysql/images/Pasted image 20240224150508.png",
-    "database/mysql/images/Pasted image 20240224150709.png",
     "todo.canvas",
     "erp.canvas",
     "未命名 1.canvas",

@@ -1,12 +1,5 @@
 {
   "editor:insert-link": [],
-  "editor:toggle-bold": [],
-  "workspace:goto-tab-1": [],
-  "workspace:goto-tab-2": [],
-  "workspace:goto-tab-3": [],
-  "workspace:goto-tab-4": [],
-  "workspace:goto-tab-5": [],
-  "editor:delete-paragraph": [],
   "app:open-settings": [
     {
       "modifiers": [
@@ -16,18 +9,60 @@
       "key": "S"
     }
   ],
-  "workspace:edit-file-title": [
+  "app:open-help": [],
+  "graph:open": [],
+  "editor:save-file": [],
+  "editor:follow-link": [],
+  "app:go-back": [],
+  "workspace:close-window": [],
+  "app:go-forward": [],
+  "editor:toggle-italics": [],
+  "editor:delete-paragraph": [],
+  "file-explorer:new-file": [
     {
       "modifiers": [
-        "Shift"
+        "Mod"
       ],
-      "key": "F6"
+      "key": "T"
     }
   ],
-  "app:open-help": [],
-  "app:go-back": [],
-  "graph:open": [],
-  "app:go-forward": [],
-  "markdown:toggle-preview": [],
-  "editor:toggle-italics": []
+  "workspace:new-tab": [],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:open-link-in-new-leaf": [],
+  "editor:open-link-in-new-split": [],
+  "editor:open-link-in-new-window": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "workspace:undo-close-pane": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageUp"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageDown"
+    }
+  ],
+  "workspace:goto-last-tab": []
 }

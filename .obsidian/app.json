@@ -23,10 +23,8 @@
   },
   "propertiesInDocument": "visible",
   "vimMode": false,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "newFileLocation": "current",
-  "userIgnoreFilters": [
-    "node_modules/",
-    "*.json"
-  ]
+  "userIgnoreFilters": null,
+  "defaultViewMode": "source"
 }
