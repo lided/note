@@ -18,14 +18,6 @@
   "app:go-forward": [],
   "editor:toggle-italics": [],
   "editor:delete-paragraph": [],
-  "file-explorer:new-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
   "workspace:new-tab": [],
   "editor:open-search-replace": [
     {
@@ -64,5 +56,14 @@
       "key": "PageDown"
     }
   ],
-  "workspace:goto-last-tab": []
+  "workspace:goto-last-tab": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": []
 }
