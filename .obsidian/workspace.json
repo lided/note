@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/git.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "index"
             }
           }
         ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/git.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "git 的反向链接列表"
+              "title": "index 的反向链接列表"
             }
           },
           {
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/git.md",
+                "file": "index.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -141,10 +141,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "linux/git.md"
+                "file": "index.md"
               },
               "icon": "lucide-info",
-              "title": "git的笔记属性"
+              "title": "index的笔记属性"
             }
           }
         ]
@@ -191,12 +191,12 @@
   },
   "active": "5bef4273a8e7f596",
   "lastOpenFiles": [
+    "linux/git.md",
     "vue3/组件传值.md",
     "vue3/axios.md",
     "index.md",
     "vue3/svg-icon.md",
     "vue3/starter.md",
-    "linux/git.md",
     "database/mysql/images/Pasted image 20240220215951.png",
     "database/mysql/images/Pasted image 20240220215215.png",
     "database/mysql/images/Pasted image 20240220215144.png",
