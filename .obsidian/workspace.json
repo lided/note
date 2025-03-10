@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/start.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "start"
+              "title": "index"
             }
           }
         ]
@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/start.md",
+                "file": "index.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "start 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -135,10 +135,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "linux/start.md"
+                "file": "index.md"
               },
               "icon": "lucide-info",
-              "title": "start的笔记属性"
+              "title": "index的笔记属性"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "13242111bf8234ab",
   "lastOpenFiles": [
-    "linux/命令分隔符.md",
     "linux/start.md",
+    "linux/命令分隔符.md",
     "linux/systemctl.md",
     "linux/regular.md",
     "linux/git.md",
