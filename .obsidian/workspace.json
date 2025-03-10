@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "linux/git.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "git"
             }
           }
         ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "linux/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "git 的反向链接列表"
             }
           },
           {
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "linux/git.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "git 的大纲"
             }
           },
           {
@@ -141,10 +141,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "linux/git.md"
               },
               "icon": "lucide-info",
-              "title": "index的笔记属性"
+              "title": "git的笔记属性"
             }
           }
         ]
@@ -191,8 +191,10 @@
   },
   "active": "5bef4273a8e7f596",
   "lastOpenFiles": [
-    "vue3/svg-icon.md",
+    "vue3/组件传值.md",
+    "vue3/axios.md",
     "index.md",
+    "vue3/svg-icon.md",
     "vue3/starter.md",
     "linux/git.md",
     "database/mysql/images/Pasted image 20240220215951.png",
@@ -221,8 +223,6 @@
     "docker/docker私有库.md",
     "docker/compose.md",
     "docker/index.md",
-    "vue3/组件传值.md",
-    "vue3/axios.md",
     "readme.md",
     "database/redis/start.md",
     "database/elasticsearch/query.md",
