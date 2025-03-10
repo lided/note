@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/systemctl.md",
+                "file": "linux/start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "systemctl"
+              "title": "start"
             }
           }
         ]
@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/systemctl.md",
+                "file": "linux/start.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "systemctl 的大纲"
+              "title": "start 的大纲"
             }
           },
           {
@@ -135,10 +135,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "linux/systemctl.md"
+                "file": "linux/start.md"
               },
               "icon": "lucide-info",
-              "title": "systemctl的笔记属性"
+              "title": "start的笔记属性"
             }
           }
         ],
@@ -184,15 +184,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb2f421696c28052",
+  "active": "13242111bf8234ab",
   "lastOpenFiles": [
-    "linux/shell.md",
+    "linux/命令分隔符.md",
+    "linux/start.md",
     "linux/systemctl.md",
     "linux/regular.md",
-    "linux/ifcfg-enc33.md",
     "linux/git.md",
-    "linux/命令分隔符.md",
     "linux/防火墙.md",
+    "linux/shell.md",
+    "linux/ifcfg-enc33.md",
     "index.md",
     "linux/index.md",
     "未命名.md",
@@ -212,7 +213,6 @@
     "database/elasticsearch/images/Pasted image 20240603134121.png",
     "database/elasticsearch/images/未命名.md",
     "database/mysql/install.md",
-    "java/juc/大纲.md",
     "vue3",
     "linux/command",
     "linux",
