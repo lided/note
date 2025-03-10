@@ -1,6 +1,8 @@
 ---
 order: 2
 ---
+
+
 git 有很多二级命令,git主要操作也是通过二级命令
 
 ## 配置
@@ -8,7 +10,7 @@ git 有很多二级命令,git主要操作也是通过二级命令
 在使用git之前要先配置用户信息,否则不能执行后续commit操作
 
 ```sh
-# 配置全局用户1信息
+# 配置全局用户信息
 # 也可不指定 --global 参数单独为每一个项目配置
 git config --global user.name "lide"
 git config --global user.email '2747217918@qq.com'

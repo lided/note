@@ -12,7 +12,7 @@
   "autoPairBrackets": true,
   "autoConvertHtml": false,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true,
+  "showUnsupportedFiles": false,
   "focusNewTab": true,
   "pdfExportSettings": {
     "includeName": true,
