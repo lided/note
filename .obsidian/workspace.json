@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "vue3/starter.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "starter"
             }
           }
         ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "vue3/starter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "starter 的反向链接列表"
             }
           },
           {
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "vue3/starter.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "starter 的大纲"
             }
           },
           {
@@ -141,10 +141,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "vue3/starter.md"
               },
               "icon": "lucide-info",
-              "title": "index的笔记属性"
+              "title": "starter的笔记属性"
             }
           }
         ]
@@ -189,8 +189,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "504b594ae4a5c3ce",
+  "active": "5bef4273a8e7f596",
   "lastOpenFiles": [
+    "index.md",
     "linux/git.md",
     "database/mysql/images/Pasted image 20240220215951.png",
     "database/mysql/images/Pasted image 20240220215215.png",
@@ -207,7 +208,6 @@
     "linux/防火墙.md",
     "linux/systemctl.md",
     "linux/regular.md",
-    "index.md",
     "linux/start.md",
     "linux/shell.md",
     "linux/ifcfg-enc33.md",

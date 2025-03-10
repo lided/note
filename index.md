@@ -23,4 +23,6 @@ features:
     link: /database/index.md
   - title: Java
     link: /java/index
+  - title: Vue3
+    link: /vue3/starter
 ---
