@@ -11,10 +11,15 @@
             "id": "4d0d26056e0defb9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -48,16 +53,6 @@
             }
           },
           {
-            "id": "bd76200e4761f9c4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
             "id": "eb2f421696c28052",
             "type": "leaf",
             "state": {
@@ -69,9 +64,42 @@
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
+          },
+          {
+            "id": "fd74655fe454b23e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "readme 的反向链接列表"
+            }
+          },
+          {
+            "id": "de37a52d3c6fae26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "readme 的出链列表"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,7 +112,7 @@
       {
         "id": "fe7f13f242f3f5d9",
         "type": "tabs",
-        "dimension": 47.80952380952381,
+        "dimension": 48.38095238095238,
         "children": [
           {
             "id": "1800ee6710f8b2d9",
@@ -92,43 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "index.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
-            }
-          },
-          {
-            "id": "fd74655fe454b23e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "反向链接"
-            }
-          },
-          {
-            "id": "de37a52d3c6fae26",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "出链"
+              "title": "index 的大纲"
             }
           }
         ]
@@ -136,7 +134,7 @@
       {
         "id": "bc7f949f07b2d768",
         "type": "tabs",
-        "dimension": 52.19047619047619,
+        "dimension": 51.61904761904762,
         "children": [
           {
             "id": "68a080a4c4db6224",
@@ -162,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,13 +171,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68a080a4c4db6224",
+  "active": "4d0d26056e0defb9",
   "lastOpenFiles": [
+    "vue3/组件传值.md",
+    "vue3/axios.md",
+    "index.md",
+    "readme.md",
+    "linux/防火墙.md",
+    "linux/命令分隔符.md",
+    "linux/git.md",
     "linux/index.md",
     "linux/ifcfg-enc33.md",
     "docker/index.md",
-    "index.md",
-    "readme.md",
     "database/redis/start.md",
     "docker/services.md",
     "database/elasticsearch/query.md",
@@ -189,20 +192,15 @@
     "database/elasticsearch/images/未命名.md",
     "database/mysql/install.md",
     "java/juc/大纲.md",
-    "vue3/组件传值.md",
     "vue3/router.md",
     "vue3/svg-icon.md",
     "vue3/plugin.md",
     "vue3/starter.md",
     "vue3/element-plus.md",
     "vue3/dev-proxy.md",
-    "vue3/axios.md",
     "vue3",
     "linux/command/less.md",
-    "linux/防火墙.md",
-    "linux/命令分隔符.md",
     "linux/systemctl.md",
-    "linux/shell.md",
     "linux/command",
     "linux",
     "java/design-mode/行为型模式/images/Pasted image 20240420110634.png",
