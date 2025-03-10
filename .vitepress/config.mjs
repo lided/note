@@ -5,6 +5,7 @@ import { withSidebar } from 'vitepress-sidebar';
 export default defineConfig(withSidebar({
   title: "Lided",
   base: '/note',
+  lastUpdated: true,
   themeConfig: {
     search: {
       provider: 'local'

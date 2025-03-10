@@ -189,10 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68a080a4c4db6224",
+  "active": "5bef4273a8e7f596",
   "lastOpenFiles": [
-    "vue3/starter.md",
+    "vue3/svg-icon.md",
     "index.md",
+    "vue3/starter.md",
     "linux/git.md",
     "database/mysql/images/Pasted image 20240220215951.png",
     "database/mysql/images/Pasted image 20240220215215.png",
@@ -227,7 +228,6 @@
     "database/elasticsearch/query.md",
     "database/elasticsearch/images/ik分词器analyze.md",
     "database/elasticsearch/quickstart.md",
-    "database/elasticsearch/images/未命名.md",
     "vue3",
     "linux/command",
     "linux",
