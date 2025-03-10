@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/git.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "index"
             }
           }
         ]
@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/git.md",
+                "file": "index.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -135,10 +135,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "linux/git.md"
+                "file": "index.md"
               },
               "icon": "lucide-info",
-              "title": "git的笔记属性"
+              "title": "index的笔记属性"
             }
           }
         ],
@@ -184,8 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7648161ee763abf",
+  "active": "13242111bf8234ab",
   "lastOpenFiles": [
+    "linux/regular.md",
+    "linux/index.md",
+    "linux/git.md",
+    "linux/systemctl.md",
+    "linux/shell.md",
     "未命名.md",
     "docker/services.md",
     "docker/install.md",
@@ -199,8 +204,6 @@
     "readme.md",
     "linux/防火墙.md",
     "linux/命令分隔符.md",
-    "linux/git.md",
-    "linux/index.md",
     "linux/ifcfg-enc33.md",
     "database/redis/start.md",
     "database/elasticsearch/query.md",
@@ -210,9 +213,6 @@
     "database/elasticsearch/images/未命名.md",
     "database/mysql/install.md",
     "java/juc/大纲.md",
-    "vue3/router.md",
-    "vue3/svg-icon.md",
-    "vue3/plugin.md",
     "vue3",
     "linux/command",
     "linux",

@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Linux
-    link: /linux/index
+    link: /linux/shell
   - title: Docker
     link: /docker/install
   - title: Database
