@@ -21,9 +21,11 @@ features:
     link: /docker/install
   - title: Database
     link: /database/index.md
-	text: Mysql,Redis,ElasticSearch
+	details: Mysql,Redis,ElasticSearch
   - title: Java
     link: /java/index
   - title: Vue3
     link: /vue3/starter
+
+lastUpdated: true
 ---
